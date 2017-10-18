@@ -1,0 +1,2 @@
+# SwiftSNSLogin
+TEST for SNSLogin
